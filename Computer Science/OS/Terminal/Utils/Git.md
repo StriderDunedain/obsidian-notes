@@ -2,6 +2,8 @@
 tags:
   - cs/util
 date: 2025-10-29
+updated: 2026-07-08
+"created ": 2026-06-24
 ---
 ## Commands:
 1. Show *settings* & where they are comig from: `git config --list --show-origin`. Can set a global variable (`user.name, user.email, core.editors`)
